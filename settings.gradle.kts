@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "ShootingPractice"
 include(":app")
- 
+include(":domain")
+include(":data")
+include(":presentation")

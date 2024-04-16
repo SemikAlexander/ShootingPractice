@@ -1,5 +1,6 @@
-package alexander.shooting.practice
+package alexander.shooting.presentation.presentation
 
+import alexander.shooting.presentation.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
